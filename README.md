@@ -14,6 +14,7 @@ The snake starts at a predetermined position on the grid.
 The snake's body is initially a single tile but grows longer each time it eats food.
 The snake can move in four directions: up, down, left, and right.
 The direction is controlled by the arrow keys.
+
 <b>Food:</b>
 
 Food items appear randomly on the grid.
